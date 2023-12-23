@@ -1,0 +1,13 @@
+table, h3, ol, ul, a{
+  font-family: Arial;
+}
+
+th, ol, ul {
+  color: red;
+}
+
+body {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 60px;
+}
