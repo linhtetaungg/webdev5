@@ -1,0 +1,23 @@
+
+
+#home-button, #menu-button, #aboutus-button, #contact-button {
+  display: inline-block;
+  text-decoration: none;
+}
+
+nav {
+  text-align: center;
+ 
+}
+
+nav ul {
+  text-align: center;
+}
+
+
+nav ul li {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  width: 100px;
+  height: 40px;
+}

@@ -1,0 +1,33 @@
+#home {
+  text-align: center;
+  padding: 50px;
+}
+  
+h1 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+#home p {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 10px;
+}
+
+#explore-our-menu-button {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#explore-our-menu-button {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color: #49281A;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+#explore-our-menu-button:hover {
+  background-color: #555;
+}

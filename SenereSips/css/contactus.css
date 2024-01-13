@@ -1,0 +1,22 @@
+#contact-us {
+  margin-top: 20px;
+  margin-left: 50px;
+  padding-bottom: 20px;
+  border-bottom-color: rgb(0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 0.8px;
+}
+
+#contact-us p {
+  text-align: justify;
+  line-height: 1.5em;
+  padding: 10px 80px 10px 0px;
+}
+
+#contact-us #email-address {
+  padding-top: 0px;
+}
+
+#contact-us #telephone-address {
+  padding-bottom: 0px;
+}
