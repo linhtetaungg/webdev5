@@ -1,8 +1,14 @@
-table, h3, ol, ul, a{
+table,
+h3,
+ol,
+ul,
+a {
   font-family: Arial;
 }
 
-th, ol, ul {
+th,
+ol,
+ul {
   color: red;
 }
 
